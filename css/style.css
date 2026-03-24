@@ -1048,7 +1048,7 @@ button { border: none; background: none; cursor: pointer; font-family: var(--san
   .pq__grid { grid-template-columns: 1fr; }
   .bebes__grid { grid-template-columns: 1fr; }
   .ebook__grid { grid-template-columns: 1fr; }
-  .bebe-card { aspect-ratio: 4/3; }
+  .bebe-card { aspect-ratio: unset; }
 
   .sobre, .vilao, .como-funciona, .para-quem, .servicos,
   .resultados, .depoimento, .ebook, .faq, .cta-final { padding: 56px 0; }
